@@ -66,7 +66,7 @@ const dd_trigger = document.querySelectorAll('.dd-trigger');
 
 - [Footer resource](https://stackoverflow.com/questions/15629511/how-can-i-make-my-footer-center-to-the-bottom-of-the-page) - This helped me set the footer at the bottom centre.
 
-## Your Detail 
+## Author 
 
 - FullName - Felise Amore Pandiora
 - StudentID - 2602174453
